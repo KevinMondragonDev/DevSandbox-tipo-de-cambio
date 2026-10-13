@@ -2,7 +2,18 @@
 
 > ETL, análisis y tablero interactivo del tipo de cambio USD/MXN de los últimos dos años.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL + análisis + dashboard · **Módulo del programa:** 03 · Python para datos
+**Estado:** 🚧 sin empezar · **Categoría:** DevSandbox · **Tipo:** ETL + análisis + dashboard · **Módulo del programa:** 03 · Python para datos
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| **`DevSandbox-`** ← este | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| `NightBuilds-` | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **DevSandbox**: el reto está estimado en 6–8 h.
 
 ## La problemática
 
