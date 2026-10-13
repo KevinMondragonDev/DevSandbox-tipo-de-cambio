@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Radar del tipo de cambio
+# 🚀 DevSandbox — Radar del tipo de cambio
 
-**Repositorio:** `sideproject-tipo-de-cambio` · **Tipo:** ETL + análisis + dashboard · **Tiempo:** 6–8 h · **Después de:** las tres carpetas de este módulo
+**Repositorio:** `DevSandbox-tipo-de-cambio` · **Tipo:** ETL + análisis + dashboard · **Tiempo:** 6–8 h · **Después de:** las tres carpetas de este módulo
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

@@ -1,4 +1,4 @@
-# sideproject-tipo-de-cambio
+# DevSandbox-tipo-de-cambio
 
 > ETL, análisis y tablero interactivo del tipo de cambio USD/MXN de los últimos dos años.
 
@@ -18,7 +18,7 @@ Una tienda en línea compra en dólares y vende en pesos, y decide cuándo compr
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un DevSandbox y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta
