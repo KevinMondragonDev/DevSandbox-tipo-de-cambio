@@ -2,7 +2,7 @@
 
 **Repositorio:** `sideproject-tipo-de-cambio` · **Tipo:** ETL + análisis + dashboard · **Tiempo:** 6–8 h · **Después de:** las tres carpetas de este módulo
 
-> Reglas, README y lista de cierre: [`06_ingenieria_de_datos/SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

@@ -2,7 +2,7 @@
 
 > ETL, análisis y tablero interactivo del tipo de cambio USD/MXN de los últimos dos años.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL + análisis + dashboard · **Módulo del programa:** 01 · Teoría y ejercicios
+**Estado:** 🚧 sin empezar · **Tipo:** ETL + análisis + dashboard · **Módulo del programa:** 03 · Python para datos
 
 ## La problemática
 
